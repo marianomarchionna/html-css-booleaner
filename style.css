@@ -59,3 +59,8 @@ h1{
 .riga-azzurra{
     background-color: skyblue;
 }
+
+table{
+    border-collapse: collapse;
+    border: none;
+}
