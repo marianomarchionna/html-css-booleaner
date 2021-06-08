@@ -21,7 +21,7 @@ h1{
     margin-bottom: 0%;
 }
 
-#sottotitolo{
+.sottotitolo{
     color: #A9A9A9;
     font-size: 110%;
     font-weight: bold;
@@ -47,6 +47,10 @@ h1{
     background-color: yellow;
 }
 
+ul{
+    padding-left: 2%;
+}
+
 #intestazione-tabella{
     background-color: #6495ED;
     color: white;
@@ -63,4 +67,16 @@ h1{
 table{
     border-collapse: collapse;
     border: none;
+}
+
+.container {
+    position: relative;
+}
+
+.top-left {
+    position: absolute;
+    color: white;
+    top: 2%;
+    left: 1%;
+    font-size: x-large;
 }
