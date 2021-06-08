@@ -1,0 +1,33 @@
+header{
+    /* inserimento pattern sfondo */
+    background-image: url(img/pattern.png);
+    /* inserimento colore sfondo */
+    background-color: #6495ED;
+    background-size: auto;
+    padding-top: 5%;
+}
+
+#logo-sito{
+    width: 20%;
+}
+
+h1{
+    font-size: 450%;
+    margin-bottom: 0%;
+}
+
+#sottotitolo{
+    color: #A9A9A9;
+    font-size: 200%;
+    font-weight: bold;
+}
+
+span{
+    color: #00BFFF;
+}
+
+#data-sottotitolo{
+    color: #A9A9A9;
+    font-size: 140%;
+    font-weight: bold;
+}
