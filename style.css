@@ -21,7 +21,7 @@ h1{
     font-weight: bold;
 }
 
-span{
+#sottotitolo-evidenziato{
     color: #00BFFF;
 }
 
@@ -35,4 +35,8 @@ span{
 #descrizione-foto{
     margin-top: 0%;
     font-size: small;
+}
+
+#testo-evidenziato{
+    background-color: yellow;
 }
