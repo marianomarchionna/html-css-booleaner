@@ -10,6 +10,12 @@ header{
     width: 20%;
 }
 
+
+body{
+    width: 75%;
+    margin: 0 auto;
+}
+
 h1{
     font-size: 250%;
     margin-bottom: 0%;
@@ -39,4 +45,17 @@ h1{
 
 #testo-evidenziato{
     background-color: yellow;
+}
+
+#intestazione-tabella{
+    background-color: #6495ED;
+    color: white;
+}
+
+.colonna{
+    width: 25%;
+}
+
+.riga-azzurra{
+    background-color: skyblue;
 }
